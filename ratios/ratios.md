@@ -9,6 +9,7 @@
 | **Cash Ratio** | (Cash + Marketable Securities) / Current Liabilities | Only considers the most liquid assets. The higher, the safer. | - **Cash & Marketable Securities**: Cash and near-cash investments (Balance Sheet) |
 | **Working Capital Ratio** | Current Assets / Current Liabilities | Shows available resources for daily operations. Positive is ideal. | - **Current Assets** and **Current Liabilities** (Balance Sheet) |
 | **Operating Cash Flow Ratio** | Operating Cash Flow / Current Liabilities | Measures if operating cash flow is enough to pay short-term debts. | - **Operating Cash Flow**: Cash Flow from Operating Activities (Cash Flow Statement) |
+
 **What's the Difference Between Current and Acid-Test Ratios?**
 <br> Both the current ratio, also known as the working capital ratio, and the acid-test ratio measure a company's short-term ability to generate enough cash to pay off all debts should they become due at once. However, the acid-test ratio is considered more conservative than the current ratio because its calculation ignores items such as inventory, which may be difficult to liquidate quickly. Another key difference is that the acid-test ratio includes only assets that can be converted to cash within 90 days or less, while the current ratio includes those that can be converted to cash within one year.
 
